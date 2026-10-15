@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Compiled Java class files
+*.class
+backend/*.class
+
+# Build outputs
+dist/
+frontend/dist/
+build/
+target/
+
+# Logs and environment
+*.log
+.env
+.env.local
+
+# IDE and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local runner shim
+powershell.bat

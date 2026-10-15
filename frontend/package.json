@@ -1,0 +1,20 @@
+{
+  "name": "ev-battery-pack-tracking-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
+    "vite": "^8.0.16",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "axios": "^1.7.9",
+    "recharts": "^2.15.0"
+  },
+  "devDependencies": {}
+}
